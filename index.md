@@ -17,6 +17,10 @@ layout: default
 
 ### 讀書筆記：
 
+### 其他：
+
+資料庫：[中文vocaloid古風曲資料庫](https://b614103080.github.io/ChineseV_GUFENG/) 2017/10/31
+
 ---
 
 # 資料存儲（下載請點擊上方按鈕，Google雲端）
