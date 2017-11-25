@@ -7,6 +7,24 @@ layout: default
 
 ### 最新文章：
 
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:150 }}
+        </div>
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+
 隨筆：[只是想住在这里](_posts/2017-11-24-只是想住在这里.md) 2017/11/24
 
 > 过去三年都在学校旁边的破旧小楼租屋，一间房间而已。床、书桌、衣柜，只有这些。窗外不是蓝天白云，是灰色水泥。房门外不是楼梯，是房东的客厅兼杂货堆积室。台风天就漏水，夏天则是满屋子的汗水，冬天是闭紧门窗裹紧被子还会发抖。不过，住在这里总归还是比宿舍好，称不上是有了自己的空间，但至少不用挤在沙丁鱼罐头里相互伤害...
