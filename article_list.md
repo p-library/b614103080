@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 文章列表
-description: 歸檔已經寫好的文章
+title: 文章與筆記
+description: 歸檔已經寫好的文章和筆記
 ---
 
 <ul class="listing">
