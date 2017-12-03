@@ -21,7 +21,7 @@ layout: default
 
 ### 讀書筆記：
 
-筆記：[Scorched Earth: Prelude to rebuilding Marxist educational theory](_posts/2017-11-29-筆記-Prelude to rebuilding Marxist educational theory.md) 2017/11/29    
+筆記：[Scorched Earth: Prelude to rebuilding Marxist educational theory](_posts/2017-11-29-筆記-Prelude-to-rebuilding-Marxist-educational-theory.md) 2017/11/29    
 
 > 本文是關於馬克思主義教育學理論衰退過程的邏輯梳理。不反對勞動力，但反對資本主義的勞動力生產方式。
 
