@@ -41,7 +41,73 @@ layout: default
 
 # 資料存儲（下載請點擊上方按鈕，Google雲端）
 
+冯军旗-中县干部.pdf
+
+外國法與中國法20世紀中國移植外國法反思.PDF
+
+葛蘭西.pdf
+
+新小農階級 _中文版.pdf
+
+農民經濟組織.pdf
+
+鄉土中國與鄉土重建.pdf
+
+鄉土中國.pdf
+
+詹姆斯·C.斯科特 - 弱者的武器.pdf
+
+鄉民社會.pdf
+
+農民的道義經濟學.pdf
+
+茶鄉社會誌.pdf
+
+江湖在哪裡.pdf
+
+日據台灣農村之商品化與小農經濟之形成.pdf
+
+農業結構轉型下的農民分化.pdf
+
+土地改革與政權鞏固.pdf
+
+陳映真文選.pdf
+
+科倫醫生吐真言.pdf
+
+公民能不能.pdf
+
+如何改變社會.pdf
+
+[美]保罗·斯威齐.垄断资本.pdf
+
+韩国现代史60年.pdf
+
+印尼etc众神遗落的珍珠.PDF
+
+台灣社會運動史.zip
+
 中國/大陸
+
+《泰利的街角》.列堡.重庆大学出版社2009.pdf
+
+That other great class of commodities_ repositioning Marxist educational theory_files
+
+That other great class of commodities_ repositioning Marxist educational theory.htm
+
+石油
+
+戰地政務體制下的馬祖漁業及漁民家庭處境.pdf
+
+打造學生工.pdf
+
+屠猫记：法国文化史钩沉.pdf
+
+记忆的政治ocrd.pdf
+
+马恩全集第二十三卷——第三篇 绝对剩余价值的生产。第五章 劳动过程和价值增殖过程_files
+
+马恩全集第二十三卷——第三篇 绝对剩余价值的生产。第五章 劳动过程和价值增殖过程.htm
 
 口述歷史
 
@@ -52,6 +118,8 @@ layout: default
 Driessen, Robin 4348664.pdf
 
 Cyborgs and Barbie Dolls_ Feminism, Popula - Kim Toffoletti.pdf
+
+马克思主义与文学批评.pdf
 
 鉅變.pdf
 
@@ -112,3 +180,5 @@ Cyborgs and Barbie Dolls_ Feminism, Popula - Kim Toffoletti.pdf
 台灣社會運動史(附表2).pdf
 
 新自由主義和階級權力的復辟.docx
+
+關鍵詞.pdf
