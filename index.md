@@ -5,7 +5,7 @@ layout: default
 
 # 內容物（完整列表請點擊上方按鈕）
 
-### 無產階級圖書館：[進入](b14103080.github.io/proletariat_library/)
+### 無產階級圖書館：[進入](https://b14103080.github.io/proletariat_library/)
 
 ### 最新文章：
 
